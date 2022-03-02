@@ -1,0 +1,14 @@
+.card{
+border: 0;
+}
+.card img{
+    height: 437px;
+}
+#message-container h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: #000;
+  }
